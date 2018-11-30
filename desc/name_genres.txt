@@ -1,0 +1,250 @@
+1 | 12 Angry Men            |   Cr  Dr       
+2 | 12 Years a Slave     |   B   Dr  Hi       
+3 | 2001: A Space Odyssey   |   Adv Sc    
+4 | 3 Idiots                |   Co Dr      
+5 | A Beautiful Mind        |   B   Dr    
+6 | A Clockwork Orange      |   Cr  Dr  Sc    
+7 | A Separation         |   Cr  Dr  Fam    
+8 | A Star Is Born         |   Dr  Mu1 Ro    
+9 | A Wednesday             |   Cr  Dr  My     
+10 | Alien                  |   Ho  Sc    
+11 | Aliens                 |   Ac  Adv Sc    
+12 | All About Eve         |   Dr    
+13 | Amadeus             |   B   Dr  Hi   
+14 | American Beauty     |   Dr   
+15 | American History X     |   Cr  Dr   
+16 | Amores Perros         |   Dr  Th   
+17 | Amélie                 |   Co  Ro   
+18 | Andrei Rublev         |   Bi  Dr  Hi   
+19 | Apocalypse Now         |   Dr  Wa   
+20 | Avengers: Infinity War |   Ac  Adv Fan   
+21 | Back to the Future     |   Adv Co  Sc   
+22 | Barry Lyndon         |   Adv Dr  Hi   
+23 | Batman Begins         |   Ac  Adv Th   
+24 | Beauty and the Beast   |   An  Fam Fan   
+25 | Before Sunrise         |   Dr  Ro   
+26 | Before Sunset         |   Dr  Ro   
+27 | Ben-Hur             |   Adv Dr  Hi   
+28 | Bicycle Thieves     |   Dr    
+29 | Blade Runner         |   Sc  Th   
+30 | Blade Runner 2049      | Dr  Sc  My   
+31 | Braveheart             | B   Dr  Hi   
+32 | Butch Cassidy and the Sundance Kid |   B   Cr  Dr   
+33 | Casablanca             |   Dr  Ro  Wa  
+34 | Casino                 | Cr  Dr   
+35 | Castle in the Sky     |   An  Adv Fan   
+36 | Catch Me If You Can    |   B   Cr  Dr   
+37 | Children of Heaven     |   Dr  Fam   
+38 | Chinatown             |   Dr  My  Th   
+39 | Cinema Paradiso     |   Dr   
+40 | Citizen Kane        |   Dr  My   
+41 | City Lights         |   Co  Dr  Ro    
+42 | City of God         |   Cr  Dr   
+43 | Coco                 |   An  Adv Co   
+44 | Come and See         |   Dr  Wa   
+45 | Cool Hand Luke         |   Cr  Dr   
+46 | Dangal                 |   Ac  B   Dr     
+47 | Das Boot             |   Adv Dr  Th   
+48 | Dead Poets Society     |   Co  Dr     
+49 | Diabolique             |   Cr  Dr  Ho   
+50 | Dial M for Murder     |   Cr  Th   
+51 | Die Hard               |   Ac  Th   
+52 | Django Unchained     |   Dr  We   
+53 | Donnie Darko         |   Dr  Sc  Th   
+54 | Double Indemnity     |   Cr  Dr  Fi      
+55 | Downfall             |   B   Dr  Hi   
+56 | Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb |   Co   
+57 | Eternal Sunshine of the Spotless Mind                                  | Dr  Ro  Sc   
+58 | Fargo                  | Cr  Dr  Th    
+59 | Fight Club             | Dr   
+60 | Finding Nemo           | An  Adv Co    
+61 | For a Few Dollars More | We   
+62 | Forrest Gump           | Dr  Ro   
+63 | Full Metal Jacket      | Dr  Wa   
+64 | Gandhi                 | B   Dr  Hi    
+65 | Gangs of Wasseypur     | Ac  Co  Cr   
+66 | Gladiator              | Ac  Adv Dr   
+67 | Gone Girl              | Cr  Dr  My   
+68 | Gone with the Wind     | Dr  Hi  Ro   
+69 | Good Will Hunting      | Dr  Ro   
+70 | Goodfellas             | Cr  Dr    
+71 | Gran Torino            |   Dr    
+72 | Grave of the Fireflies | An  Dr  Wa   
+73 | Groundhog Day          | Co  Fan Ro   
+74 | Guardians of the Galaxy    | Ac  Adv Co   
+75 | Hachi: A Dog's Tale    |   Dr  Fam   
+76 | Hacksaw Ridge          | B   Dr  Hi   
+77 | Harry Potter and the Deathly Hallows: Part 2 |   B   Dr  Hi   
+78 | Heat                   | Cr  Dr  Th    
+79 | Hotel Rwanda           | B   Dr  Hi   
+80 | How to Train Your Dragon |   An  Ac  Adv   
+81 | Howl's Moving Castle |   An  Adv Fam   
+82 | Ikiru                 |   Dr   
+83 | In the Mood for Love |   Dr  Ro   
+84 | In the Name of the Father |   B   Dr   
+85 | Incendies             |   Dr  My  Wa    
+86 | Inception             |   Ac  Adv Sc   
+87 | Indiana Jones and the Last Crusade |   Ac  Adv Fan   
+88 | Inglourious Basterds |   Adv Dr Wa   
+89 | Inside Out             |   An  Adv Co   
+90 | Interstellar         |   Adv Dr  Sc   
+91 | Into the Wild         |   Adv B   Dr   
+92 | It Happened One Night |   Co  Ro    
+93 | It's a Wonderful Life |   Dr  Fam Fan   
+94 | Jaws                 |   Adv Dr  Th   
+95 | Judgment at Nuremberg |   Dr  Wa   
+96 | Jurassic Park         |   Adv Sc  Th   
+97 | Kill Bill: Vol. 1   |   Ac  Cr  Th     
+98 | L.A. Confidential   |   Cr  Dr  My   
+99 | La Haine             |   Cr  Dr   
+100 | La La Land         |   Co  Dr  Mu1   
+101 | Lagaan: Once Upon a Time in India         |   
+102 | Lawrence of Arabia                     |   Adv B   Dr                                                                  
+103 | Life Is Beautiful                         |   Co  Dr  Ro                                                             
+104 | Life of Brian                             |   Co                                                    
+105 | Like Stars on Earth                     |   Dr  Fam                                                                
+106 | Lock, Stock and Two Smoking Barrels     |   Co  Cr                                                         
+107 | Logan                                     |   Ac  Dr  Sc                                                            
+108 | Léon: The Professional                 |   Cr  Dr  Th                                                            
+109 | M                                         |   Cr  My  Th                                                           
+110 | Mad Max: Fury Road                     |   Ac  Adv Sc                                                           
+111 | Mary and Max                             |   An  Co  Dr                                                       
+112 | Memento                                 |   My  Th                                                 
+113 | Memories of Murder                     |   Ac  Cr  Dr                                                            
+114 | Metropolis                             |   Dr  Sc                                                          
+115 | Million Dollar Baby                     |   Dr  Sp                                                    
+116 | Modern Times                             |   Co  Dr  Fam                                                     
+117 | Monsters, Inc.                         |   An  Adv Co                                                         
+118 | Monty Python and the Holy Grail         |   Adv Co  Fan                                                      
+119 | Mr. Smith Goes to Washington             |   Co  Dr                                                  
+120 | My Father and My Son                     |   Dr  Fam                                                            
+121 | My Neighbor Totoro                     |   An  Fam Fan                                                          
+122 | Nausicaä of the Valley of the Wind     |   An  Adv Fan                                                         
+123 | Network                                 |   Dr                                                     
+124 | No Country for Old Men                 |   Cr  Dr  Th                                                                    
+125 | North by Northwest                     |   Adv My  Th                                                     
+126 | Oldboy                                 |   Ac  Dr  My                                                           
+127 | On the Waterfront                         |   Cr  Dr  Th                                                  
+128 | Once Upon a Time in America             |   Cr  Dr                                                        
+129 | Once Upon a Time in the West             |   We                                                     
+130 | One Flew Over the Cuckoo's Nest         |   Dr                                                           
+131 | PK                                     |   Co  Dr                                                                 
+132 | Pan's Labyrinth                         |   Dr  Fan Wa                                                             
+133 | Paper Moon                             |   Co  Cr  Dr                                                          
+134 | Paris, Texas                             |   Dr                                                         
+135 | Paths of Glory                         |   Dr  Wa                                                                     
+136 | Persona                                 |   Dr  Th                       
+137 | Pirates of the Caribbean: The Curse of the Black Pearl    |   Ac  Adv Fan  
+138 | Platoon                                 |   Dr  Wa                                       
+139 | Princess Mononoke                         |   An  Adv Fan                                                             
+140 | Prisoners                                 |   Cr  Dr  My                                                      
+141 | Psycho                                 |   Ho  My  Th                                                             
+142 | Pulp Fiction                             |   Cr  Dr                                                         
+143 | Raging Bull                             |   B   Dr  Sp                                                             
+144 | Raiders of the Lost Ark                 |   Ac  Adv                                                         
+145 | Ran                                     |   Ac  Dr                                                        
+146 | Rang De Basanti                         |   Co  Dr                                                             
+147 | Rashomon                                 |   Cr  Dr  My                                                             
+148 | Rear Window                             |   My  Th                                                        
+149 | Rebecca                                 |   Dr  My  Ro                                                            
+150 | Requiem for a Dream                     |   Dr                                                               
+151 | Reservoir Dogs                            |   Cr  Dr  Th  
+152 | Rocky                                     |   Dr  Sp  
+153 | Room                                     |   Dr  Th                                                             
+154 | Rush                                     |   Ac  B   Dr                                                        
+155 | Saving Private Ryan                     |   Dr  Wa                                
+156 | Scarface                                 |   Cr  Dr                                                
+157 | Schindler's List                         |   B   Dr  Hi                                                
+158 | Se7en                                     |   Cr  Dr  My                                        
+159 | Seven Samurai                             |   Adv Dr                                   
+160 | Sherlock Jr.                             |   Ac  Co  Ro                                                 
+161 | Shutter Island                         |   My  Th                                                   
+162 | Singin' in the Rain                     |   Co  Mu2 Ro                                          
+163 | Snatch                                 |   Co  Cr                                             
+164 | Some Like It Hot                         |   Co  Ro                                           
+165 | Spirited Away                             |   An  Adv Fam                                                 
+166 | Spotlight                                 |   Cr  Dr  Hi                                   
+167 | Stalker                                 |   Dr  Sc                                 
+168 | Stand by Me                             |   Adv Dr                                 
+169 | Star Wars: Episode IV - A New Hope            |    Ac  Adv Fan                                                      
+170 | Star Wars: Episode V - The Empire Strikes Back   |    Ac  Adv Fan                                                    
+171 | Star Wars: Episode VI - Return of the Jedi    |    Ac  Adv Fan                                           
+172 | Sunrise                                 |   Dr  Ro                                               
+173 | Sunset Boulevard                         |   Dr  Fi                                                         
+174 | Tangerines                             |   Dr  Wa                                                          
+175 | Taxi Driver                             |   Cr  Dr                                                             
+176 | Terminator 2                             |   Ac  Sc  
+177 | The 400 Blows                             |   Cr  Dr                                                           
+178 | The Apartment                             |   Co  Dr  Ro                                                               
+179 | The Bandit                             |   Cr  Dr  Th                                                           
+180 | The Best Years of Our Lives             |   Dr  Ro  Wa                                                                  
+181 | The Big Lebowski                         |   Co  Cr                                                         
+182 | The Bourne Ultimatum                     |   Ac  My  Th                                               
+183 | The Bridge on the River Kwai             |   Adv Dr  Wa                                            
+184 | The Dark Knight                         |   Ac  Cr  Dr                                                        
+185 | The Dark Knight Rises                     |   Ac  Th                                                      
+186 | The Deer Hunter                         |   Dr  Wa                                              
+187 | The Departed                             |   Cr  Dr  Th                                                 
+188 | The Elephant Man                         |   B   Dr                                                        
+189 | The General                             |   Ac  Adv Co                                      
+190 | The Godfather                             |   Cr  Dr                                     
+191 | The Godfather: Part II                 |   Cr  Dr                                                                 
+192 | The Gold Rush                             |   Adv Co  Dr                                                                 
+193 | The Good, the Bad and the Ugly         |   We                                                   
+194 | The Grand Budapest Hotel                 |   Adv Co  Dr                                                                  
+195 | The Grapes of Wrath                     |   Dr  Hi                                             
+196 | The Great Dictator                     |   Co  Dr  Wa                                                                 
+197 | The Great Escape                         |   Adv Dr  Hi                                                                  
+198 | The Green Mile                         |   Cr  Dr  Fan                                                            
+199 | The Handmaiden                         |   Dr  Ro  Th                                                       
+200 | The Help                                 |   Dr                                                                  
+201 | The Hunt                                  |   Dr                                                       
+202 | The Intouchables                         |   B   Co  Dr                                                                
+203 | The Kid                                 |   Co  Dr  Fam                                                                   
+204 | The Lion King                             |   An  Adv Dr                                                        
+205 | The Lives of Others                     |   Dr  Th                                             
+206 | The Lord of the Rings: The Fellowship of the Ring     |   Adv Dr  Fan  
+207 | The Lord of the Rings: The Return of the King         |   Ac  Adv Dr  
+208 | The Lord of the Rings: The Two Towers                 |   Adv Dr  Fan 
+209 | The Maltese Falcon                                 |   Fi  My  
+210 | The Matrix                                         |   Ac  Sc                                                        
+211 | The Nights of Cabiria                                 |   Dr                                           
+212 | The Passion of Joan of Arc                         |   B   Dr  Hi                                                         
+213 | The Pianist                                         |   B   Dr  Mu1                                              
+214 | The Prestige                                         |   Dr  My  Sc                                            
+215 | The Princess Bride                                 |   Adv Fam Fan                                                 
+216 | The Secret in Their Eyes                             |   Dr  My  Ro                                             
+217 | The Seventh Seal                                     |   Dr  Fan                                             
+218 | The Shawshank Redemption                             |   Dr                                                 
+219 | The Shining                                         |   Dr  Ho                                                     
+220 | The Silence of the Lambs                             |   Cr  Dr  Th                                                 
+221 | The Sixth Sense                                     |   Dr  My  Th                                             
+222 | The Sting                                             |   Co  Cr  Dr                                             
+223 | The Terminator                                     |   Ac  Sc                                                 
+224 | The Thing                                             |   Ho  My  Sc                                                    
+225 | The Third Man                                         |   Fi  My  Th                                                   
+226 | The Truman Show                                     |   Co  Dr  Sc                                             
+227 | The Usual Suspects                                 |   Cr  My  Th                                                          
+228 | The Wages of Fear                                     |   Adv Dr  Th                                     
+229 | The Wizard of Oz                                     |   Adv Fam Fan                                                      
+230 | The Wolf of Wall Street                             |   B   Co  Cr                                            
+231 | There Will Be Blood                                 |   Dr                                             
+232 | Three Billboards Outside Ebbing, Missouri             |   Co  Cr  Dr                                                      
+233 | To Kill a Mockingbird                                 |   Cr  Dr                                             
+234 | Tokyo Story                                         |   Dr                                                 
+235 | Toy Story                                             |   An  Adv Co                                                     
+236 | Toy Story 3                                         |   An  Adv Co                                             
+237 | Trainspotting                                         |   Dr                                             
+238 | Unforgiven                                         |   Dr  We                                                         
+239 | Up                                                 |   An  Adv Co                                                 
+240 | V for Vendetta                                     |   Ac  Dr  Sc                                                         
+241 | Vertigo                                             |   My  Ro  Th                              
+242 | WALL·E                                             |   An  Adv Fam                                
+243 | Warrior                                             |   Dr  Sp                                           
+244 | Whiplash                                             |   Dr  Mu1                                                
+245 | Wild Strawberries                                     |   Dr  Ro                                      
+246 | Wild Tales                                         |   Co  Dr  Th                                                
+247 | Winter Sleep                                         |   Dr                                                
+248 | Witness for the Prosecution                         |   Cr  Dr  My                                                   
+249 | Yojimbo                                             |   Ac  Dr  Th                                             
+250 | Your Name                                             |   An  Dr  Fan  
